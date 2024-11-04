@@ -1,4 +1,4 @@
-#GraphCast Adjoint Model
+# GraphCast Adjoint Model
 
 This repository provides the tangent linear and adjoint models developed for the GraphCast weather model, enabling users to calculate sensitivities and linear perturbation responses. The code, located in gc_subs.py, builds on DeepMind’s original GraphCast implementation and extends it with tangent linear (TL) and adjoint (AD) functionalities.
 
